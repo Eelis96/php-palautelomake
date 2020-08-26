@@ -11,7 +11,7 @@
         }
         else
         {
-            $to = "eelislantinen14@gmail.com";
+            $to = "kapteeni11@gmail.com";
             $headers = "From: webmaster@example.com" . "\r\n" .
             "CC: somebodyelse@example.com";
             if(mail($to, "Uutta Palautetta", "Uutta Palautetta", $headers))
